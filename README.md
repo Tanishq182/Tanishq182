@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:3A0CA3,100:4361EE&text=Tanishq%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20|%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
@@ -323,4 +323,4 @@ Open To:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:3A0CA3,100:4361EE"/>
 
 </div>
-```
+
