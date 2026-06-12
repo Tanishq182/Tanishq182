@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:3A0CA3,100:4361EE&text=Tanishq%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20|%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:3A0CA3,100:4361EE&text=Tanishq%20Kolluri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20|%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=1000&lines=Building+Scalable+Software+Systems;AI%2FML+Engineer+%7C+Backend+Focused;Competitive+Programmer+%7C+Problem+Solver;Engineering+for+Impact%2C+Scale+and+Performance"/>
 
